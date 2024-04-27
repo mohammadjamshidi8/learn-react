@@ -6,4 +6,12 @@
     body {
         @apply font-poppins
     }
+
+    .cold {
+        @apply bg-sky-500
+    }
+
+    .hot {
+        @apply bg-orange-500
+    }
 }
